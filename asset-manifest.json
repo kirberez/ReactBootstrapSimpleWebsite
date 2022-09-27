@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactBootstrapSimpleWebsite/static/css/main.9a1de76b.css",
+    "main.js": "/ReactBootstrapSimpleWebsite/static/js/main.8e11a5c0.js",
+    "static/media/01.jpg": "/ReactBootstrapSimpleWebsite/static/media/01.925233fe7d3d42690796.jpg",
+    "static/media/03.jpg": "/ReactBootstrapSimpleWebsite/static/media/03.1afc608a90eed1f95440.jpg",
+    "static/media/05.jpg": "/ReactBootstrapSimpleWebsite/static/media/05.60a34f013a30e49ab098.jpg",
+    "static/media/04.jpg": "/ReactBootstrapSimpleWebsite/static/media/04.4b81994e5570adf6df30.jpg",
+    "static/media/02.jpg": "/ReactBootstrapSimpleWebsite/static/media/02.8d5da665ed2e4b4479c0.jpg",
+    "index.html": "/ReactBootstrapSimpleWebsite/index.html",
+    "main.9a1de76b.css.map": "/ReactBootstrapSimpleWebsite/static/css/main.9a1de76b.css.map",
+    "main.8e11a5c0.js.map": "/ReactBootstrapSimpleWebsite/static/js/main.8e11a5c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a1de76b.css",
+    "static/js/main.8e11a5c0.js"
+  ]
+}
